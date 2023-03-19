@@ -4,7 +4,7 @@ const heading = React.createElement("div", { id: "parent" }, [
     "div",
     {
       id: "child1",
-      xyz: "abc",
+      xyz: "abcd",
     },
     [
       React.createElement("h1", {}, "i am h1"),
