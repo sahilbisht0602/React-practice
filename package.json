@@ -1,0 +1,31 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "this code is by sahil",
+  "main": "App.js",
+  "scripts": {
+    "test": " jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilbisht0602/React-practice.git"
+  },
+  "keywords": [
+    "sahil",
+    "bisht",
+    "react",
+    "front",
+    "end",
+    "html",
+    "css"
+  ],
+  "author": "sahil bisht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilbisht0602/React-practice/issues"
+  },
+  "homepage": "https://github.com/sahilbisht0602/React-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
