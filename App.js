@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 //make a heading element , returned heading is a js object which is a react element
 const heading = React.createElement("div", { id: "parent" }, [
   React.createElement(
